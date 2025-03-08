@@ -1,0 +1,8 @@
+// en.json
+{
+    "title": "Coffee Shop",
+    "coffee": "Coffee",
+    "tea": "Milk Tea",
+    "address": "Delivery Address",
+    "pay": "Payment"
+  }
